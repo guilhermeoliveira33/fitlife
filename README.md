@@ -1,3 +1,3 @@
 # pagina fitlife
 
-projeto para criação de calcladora fitness
+projeto para criação de calculadora fitness
